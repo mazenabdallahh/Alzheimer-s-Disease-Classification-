@@ -39,7 +39,7 @@ The analysis is performed on a clinical dataset containing **2,149 patient recor
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language**: Python  
 - **Machine Learning**: Scikit‑learn, XGBoost  
 - **Data Analysis**: Pandas, NumPy  
@@ -47,7 +47,7 @@ The analysis is performed on a clinical dataset containing **2,149 patient recor
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Clone the repository
 ```bash
